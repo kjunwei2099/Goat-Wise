@@ -183,7 +183,7 @@ async def goat(ctx, *args):
 
 keep_alive()
 
-TOKEN = 'ODk0MzA0NzI3OTMwNjUwNjU2.YVoELg.ozMh0K7TmSYcllHQIfMFiwC7XqQ'
+TOKEN = ''
 
 
 def run():
